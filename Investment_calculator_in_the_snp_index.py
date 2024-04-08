@@ -62,7 +62,7 @@ def calculate_investment_return(index_data, monthly_investment, start_date, end_
 
 # הגדרת פרמטרים
 monthly_investment = 2000  # השקעה חודשית
-start_date = "1988-01-01"  # תאריך התחלה
+start_date = "2014-01-01"  # תאריך התחלה
 end_date = "2024-3-31"  # תאריך סיום
 
 # הורדת נתוני מדד S&P 500 (הסתרת הודעות התקדמות)
